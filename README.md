@@ -1,4 +1,4 @@
-Hi there! My name is Njabulo Gama
+Hi there! My name is Njabulo Gama.
 =====================================================================================================================================
 
 Aspiring Software Engineer
