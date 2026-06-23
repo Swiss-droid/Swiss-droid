@@ -6,8 +6,7 @@ Aspiring Software Engineer
 
 I started coding in 2025, using Python, HTML, CSS and JS. Then I went to university and got exposed to C++. It's been a challenging, yet fun journey.
 
-* 🧠  I'm currently learning Angular.
-* 👥  I'm looking to collaborate on Web Development projects.
+* 👥  I'm looking to collaborate on projects, which will help polish my skills.
 * 💬  I love reading.
 
 <p align="left">
