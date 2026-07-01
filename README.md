@@ -1,7 +1,7 @@
 Hi 👋 My name is Njabulo Gama
 =============================
 
-Aspiring Software Engineer
+Aspiring Software Engineer | Tech Enthusiast
 --------------------------
 
 I started my coding journey in 2025, using Python, HTML, CSS and JS. I was teaching myself at the time. Then I went to university and got exposed to C++, and other systems. It's been a challenging, yet fun journey.
