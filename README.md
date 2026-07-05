@@ -4,10 +4,10 @@ Hi 👋 My name is Njabulo Gama
 Aspiring Software Engineer | Tech Enthusiast
 --------------------------------------------
 
-I started my coding journey in 2025, using Python, HTML, CSS and JS. I was teaching myself at the time. Then I went to university and got exposed to C++, and other systems. It's been a challenging, yet fun journey.
+I started my coding journey in 2025, using Python, HTML, CSS and JS. I was teaching myself at the time, also building projects on the side. Then I went to university and got exposed to C++, and other systems. It's been a challenging, yet fun journey.
 
 * 🧠  I'm currently learning Pandas, HTML, CSS and JavaScript.
-* 👥  I'm looking to collaborate on interesting projects, especially if Python is involved(since I love Python).
+* 👥  I'm looking to collaborate on interesting projects, especially if Python is involved (since I love Python).
 * 💬  Ask me about being a superhero.
 
 <p align="left">
