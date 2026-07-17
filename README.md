@@ -1,7 +1,7 @@
 Hi 👋 My name is Njabulo Gama
 =============================
 
-Aspiring Software Engineer
+Aspiring Data Engineer
 --------------------------
 
 I've been learning to code for a few months, using Python and C++ , which I'm currently learning at university. On the side I am learning other tech stacks like Pandas, and doing projects.
