@@ -7,7 +7,7 @@ Aspiring Data Engineer
 I've been learning to code for a few months, using Python and C++ , which I'm currently learning at university. On the side I am learning other tech stacks like Pandas, Django , and doing projects on the side.
 
 * 🧠  I'm currently learning Pandas
-* 👥  I'm looking to collaborate on Interesting projects, especially if they're Python centred(since I love Python).
+* 👥  I'm looking to collaborate on Interesting projects, especially if they're Python centred (since I love Python).
 * 💬  I'm a superhero, but don't tell anyone, okay?
 
 <p align="left">
